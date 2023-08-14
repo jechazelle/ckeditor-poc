@@ -14,13 +14,14 @@ DB_PASSWORD=password
 php artisan migrate
 ```
 
-# Install
+# Init
 
 ```
+composer install
 npm install
 ```
 
-and
+# Launch project
 
 ```
 npm run dev
