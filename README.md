@@ -1,4 +1,6 @@
-# Set database .env
+# Create databse and set database .env
+
+create ckeditor-poc database (example)
 
 ```
 DB_DATABASE=ckeditor-poc
