@@ -27,7 +27,7 @@ npm install
 npm run dev
 ```
 
-other temrinal
+other terminal
 
 ```
 php artisan serve
